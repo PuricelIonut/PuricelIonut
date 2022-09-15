@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PuricelIonut
+- 👋 Hi, I’m Puricel Ionut Claudiu
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Python 3
 - 💞️ I’m looking to join beginner projects
