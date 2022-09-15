@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PuricelIonut
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Python 3
-- 💞️ I’m looking to colaborate on beginner projects
+- 💞️ I’m looking to join beginner projects
 - 📫 How to reach me ionutclaudiu50@yahoo.com
 
 <!---
